@@ -3,7 +3,7 @@
 
 # Authors
 ### Youssef EL MEKKAOUI.
-### Kamal Norman abdul.
+### Kamal Norman ABDUL.
 
 
 The Airbnb Console is a command-line interface (CLI) tool that simplifies the testing of various CRUD (Create, Read, Update, Delete) functionalities. With intuitive commands, you can efficiently interact with your data models and perform essential operations.
